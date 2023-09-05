@@ -1,5 +1,8 @@
 #Here's an example of a Python implementation for style transfer in generative AI art using the PyTorch framework:
 
+# for details see the blog:
+# [A blog on the code is here](https://creataai.com/blog/PyTorch-Style-Transfer-Sample-Code-for-Generative-AI)
+
 #```python
 import torch
 import torch.nn as nn
